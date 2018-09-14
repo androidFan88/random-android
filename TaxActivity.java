@@ -5,6 +5,7 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+/* are you really happy with this? */
 public class TaxActivity extends AppCompatActivity
 {
     LinearLayout linearLayout;
