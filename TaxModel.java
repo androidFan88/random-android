@@ -1,5 +1,3 @@
-package ca.roumani.taxcalc;
-
 /**
  * Created by user on 1/31/17.
  */
